@@ -68,7 +68,23 @@ The analysis demonstrates how Power BI and DAX can support:
 
 ## 🖼️ Dashboard Preview
 
-Screenshots of the report pages and key visualizations will be added here.
+### Main Sales Dashboard
+
+![Main Sales Dashboard](sales_dashboard.png)
+
+### Additional Report Pages
+
+![Report Page 1](Знімок%20екрана%202026-10-26%20222156.png)
+
+![Report Page 2](Знімок%20екрана%202026-10-26%20222235.png)
+
+![Report Page 3](Знімок%20екрана%202026-10-26%20222251.png)
+
+![Report Page 4](Знімок%20екрана%202026-10-26%20222328.png)
+
+![Report Page 5](Знімок%20екрана%202026-10-26%20222403.png)
+
+![Report Page 6](Знімок%20екрана%202026-10-26%20222419.png)
 
 ## 📂 Project Files
 
